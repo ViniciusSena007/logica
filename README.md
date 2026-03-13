@@ -1,4 +1,4 @@
-﻿# gologica
+﻿# logica
  Aula de versioamento
  Data: 11/03/2026
 
